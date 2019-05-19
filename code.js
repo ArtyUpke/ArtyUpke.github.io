@@ -20,7 +20,7 @@ window.onload = function() {
 
     function clearFon() {
         holst.clearRect(0, 0, 800, 600);
-        holst.fillStyle = "#0000FF";
+        holst.fillStyle = "#FF0000";
         holst.fillRect(0, 0, 800, 600);
     }
 
